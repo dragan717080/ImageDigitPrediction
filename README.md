@@ -1,6 +1,8 @@
 # 🖼️ Image digit prediction 🎨🌐🧠🔢
 
-Image digit prediction built with Flask, Tailwind and TensorFlow.
+## Image digit prediction built with Flask, Tailwind and TensorFlow
+
+https://github.com/user-attachments/assets/15ffe0bd-b3dd-440e-bc62-ccf3798dfd5f
 
 - **Tailwind CSS**
 
